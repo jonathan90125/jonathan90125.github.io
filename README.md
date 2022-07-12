@@ -1,4 +1,4 @@
-# click here my page https://jonathan90125.github.io/ 
+# [click here](https://jonathan90125.github.io/ )
 
 
-Repository for lixinhzuo's academic research website.
+Repository for lixinhzuo's personal website.
